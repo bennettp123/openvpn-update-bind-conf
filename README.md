@@ -1,4 +1,4 @@
-OpenVPN Update resolvconf
+OpenVPN Update bind conf
 -------------------------
 
 ### Description
